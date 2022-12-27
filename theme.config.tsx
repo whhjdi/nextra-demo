@@ -14,8 +14,8 @@ const config: DocsThemeConfig = {
     text: 'Nextra Docs Template',
   },
   i18n: [
-  { locale: 'en', text: 'English' },
-  { locale: 'zh', text: '中文' },
+  { locale: 'en-US', text: 'English' },
+  { locale: 'zh-CN', text: '中文' },
 ]
 }
 
